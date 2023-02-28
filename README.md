@@ -1,3 +1,4 @@
 # Easybank-landing-page
 
-https://adelakuntobi.github.io/Easybank-landing-page/
+
+https://github.com/BusayoEsther/Easybank-landing-page-master.git
