@@ -3,7 +3,7 @@
 }
 body {
   margin: 0;
-  max-width: 1000px;
+
 }
 .border {
   display: flex;
@@ -67,6 +67,7 @@ button {
 .border-3 p {
   color: hsl(232, 8%, 62%);
   font-size: 15px;
+  line-height: 1.5;
 }
 .mock-up {
  z-index: 2;
